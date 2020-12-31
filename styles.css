@@ -1,0 +1,14 @@
+
+
+
+div>input.form-control{
+    width: 60%;
+}
+
+span>input.form-control{
+    width: 40%;
+}
+
+@page{
+    margin: 0;
+}
